@@ -44,4 +44,4 @@ Performing analysis of FDI data of India from 2000 to 2017 using Tableau and ans
 
 1.) Open Tableau.
 
-2.) Go to File tab and then press Open and select the Tableau file - FDI Case Study.twbx after downloading it from this repository.
+2.) Go to File tab, then press Open and select the Tableau file - FDI Case Study.twbx after downloading it from this repository.
