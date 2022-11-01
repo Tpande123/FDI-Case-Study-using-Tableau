@@ -33,14 +33,14 @@ Performing analysis of FDI data of India from 2000 to 2017 using Tableau and ans
     J. Forecast for next year with filter for Sector.
 
 
-## Prerequirements for the code file: -
+## Prerequirements for the Tableau file: -
 
 1.) Tableau.
 
 2.) FDI Case Study.xlsx provided in the repository.
 
 
-## How to run the code: -
+## How to run the Tableau file: -
 
 1.) Open Tableau.
 
