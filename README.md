@@ -1,6 +1,6 @@
 ## Introduction: -
 
-Performing analysis of FDI data of India from 2000 to 2017 using Tableau and answering some of the questions asked in this case study. The following steps are performed here ->
+Performing analysis of FDI data of India from 2000 to 2017 using Tableau and answering the questions asked in this case study. The following steps are performed here ->
 
 1.) Importing the Data in Tableau from the file - FDI Case Study.xlsx.
 
