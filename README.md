@@ -10,7 +10,7 @@ Performing analysis of FDI data of India from 2000 to 2017 using Tableau and ans
 
 4.) Moving to sheet and story creation to visualize creation
 
-5.) Answering the following questions using Tableau? - 
+5.) Answering the following questions using Tableau -> 
 
     A. What are the top 10 sectors having highest value for FDI?
     
